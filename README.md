@@ -10,3 +10,6 @@ Files:
 Usage:
 1. install requirements: pip install -r requirements.txt
 2. run: python main.py
+=======
+# papr_ofdm_framework
+study the effects of PAPR on OFDM signal in transmission over differents channel
